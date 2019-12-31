@@ -1,8 +1,10 @@
-### o
+### bitsharesjs
 ---
 
 
-```
+```sh
+npm install bitsharesjs
+
 ```
 
 ```
